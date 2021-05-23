@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Docker Reload
+          Docker Test App
         </p>
         <a
           className="App-link"
